@@ -8,7 +8,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': 'd3d2413b1a',
 }
 
 global.alivemsg = `📤I am alive now😇
@@ -38,10 +38,10 @@ global.location = "Sri_lanka, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
-global.antispam = "true" // To remove or block spammers
+global.antibad = "true" // To remove bad word senders
+global.antispam = "false" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
